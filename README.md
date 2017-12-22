@@ -1,3 +1,3 @@
 # Knowledge
 
-:bulb: things i've learned
+💡 things i've learned
