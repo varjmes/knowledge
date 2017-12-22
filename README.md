@@ -1,2 +1,3 @@
-# knowledge
-:lightbulb: things i've learned
+# Knowledge
+
+:bulb: things i've learned
